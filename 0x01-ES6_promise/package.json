@@ -2,8 +2,7 @@
   "name": "0x01-es6_promise",
   "version": "1.0.0",
   "description": "readme file",
-  "main": "0-promise.js",
-  "type": "module",
+  "main": ".eslintrc.js",
   "scripts": {
     "test": "jest",
     "dev": "node"
